@@ -17,6 +17,16 @@ Download JNativeHook: https://github.com/kwhat/jnativehook/releases/tag/2.2.2
 
 ---
 
+## Download
+
+**TH:** ดาวน์โหลดไฟล์ล่าสุดได้จาก [Releases](https://github.com/Sitthan181/AFK-Marco-Recorder/releases)
+แล้วโหลด `AFK_complete.zip`
+
+**EN:** Download the latest version from [Releases](https://github.com/Sitthan181/AFK-Marco-Recorder/releases)
+and download `AFK_complete.zip`
+
+---
+
 ## Installation
 
 **TH**
