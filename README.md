@@ -50,12 +50,22 @@ AFK\
 ├── 📂 lib\
 │   ├── JNativeHook.jar              ← ดาวน์โหลดเอง / download manually
 │   └── JNativeHook-2.2.2.x86_64.dll
-└── 📂 icons\
-    ├── record.png
-    ├── play.png
-    ├── open.png
-    ├── setting.png
-    └── app.ico
+├── 📂 icons\
+│   ├── record.png
+│   ├── play.png
+│   ├── open.png
+│   ├── setting.png
+│   └── app.ico
+└── 📂 src\
+    ├── AppConfig.java
+    ├── DpiHelper.java
+    ├── HotkeyManager.java
+    ├── MainFrame.java
+    ├── Player.java
+    ├── RecordedEvent.java
+    ├── Recorder.java
+    └── SettingDialog.java
+
 ```
 
 ---
