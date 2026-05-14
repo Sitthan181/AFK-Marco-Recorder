@@ -1,0 +1,5 @@
+lib/JNativeHook.jar
+lib/JNativeHook-2.2.2.x86_64.dll
+lib/*.dll
+out/
+*.class
